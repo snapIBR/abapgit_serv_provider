@@ -5,6 +5,9 @@
    <MASTER_LANGUAGE>D</MASTER_LANGUAGE>
    <STARTING_FOLDER>/src/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <IGNORE>
+    <item>/zabapgit_calc_ws_test.dtel.xml</item>
+   </IGNORE>
   </DATA>
  </asx:values>
 </asx:abap>
